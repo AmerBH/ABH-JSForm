@@ -1,0 +1,14 @@
+<html>
+<head>
+</head>
+
+<body>
+
+<form>
+<input type="text" name="email" value="email">insert your email address</input>
+<button name="submit" value="submit"/> 
+</form>
+
+<body>
+
+</html>
